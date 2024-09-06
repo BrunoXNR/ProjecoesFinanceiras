@@ -1,4 +1,4 @@
-# Projeção de Valor Futuro - Parcelas Postecipadas
+# Projeção de Valor Futuro - Parcelas Postecipadas - Aportes Simples
 
 
 import numpy as np
