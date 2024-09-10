@@ -9,9 +9,9 @@ import matplotlib.pyplot as plt
 
 # Input das variáveis do cálculo
 capital_inicial = int(input("Digite o valor inicial: "))
-taxa_juros = float(input("Digite a taxa de juros ao mês: "))
 prazo = int(input("Digite o prazo total em meses: "))
 aporte = int(input("Digite o valor dos aportes mensais: "))
+taxa_juros = float(input("Digite a taxa de juros ao mês: "))
 
 taxa_juros = taxa_juros / 100
 
