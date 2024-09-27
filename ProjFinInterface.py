@@ -270,7 +270,7 @@ def calcular_projecao():
     frame_rendimento_com_aporte.grid(row=2, column=0, padx=10, pady=5, sticky='ew')
 
     label_rendimento_com_aporte = ctk.CTkLabel(master=frame_rendimento_com_aporte, 
-                                text=f"Total Recebido de Rendimento: R$ {rendimento_juros_formatado}",
+                                text=f"Total Recebido de Rendimento: {rendimento_juros_formatado}",
                                 justify="center",
                                 font=("Arial", 16, "bold"))
     label_rendimento_com_aporte.pack(pady=10)
